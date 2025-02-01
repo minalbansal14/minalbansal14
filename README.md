@@ -52,7 +52,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minalbansal14&show_icons=true&locale=en&layout=compact" alt="minalbansal14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-sadupalli&show_icons=true&locale=en" alt="minalbansal14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minalbansal14&show_icons=true&locale=en" alt="minalbansal14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minalbansal14&" alt="minalbansal14" /></p>
 
